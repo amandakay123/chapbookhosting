@@ -3,7 +3,6 @@
 // =============================================
 const POEMS = [
   'poems/cover.html',
-  'poems/01.html',
   'poems/02.html',
   'poems/03.html',
   'poems/04.html',
